@@ -12,7 +12,7 @@
 
 
 
-## Tech Stack Used :computer:
+## Tech Stack Used :
 --------------------------
 **Build With -** 
 * Python 3.8
@@ -39,7 +39,7 @@
 * Git
 
 
-## Installation :key:
+## Installation :
 -----------------------------------
 
 ### Create Environment 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 > Note: During the package installation, sometimes it shows errors due to package dependencies and to avoid those error you can install those packages as admin.
 
 
-## Test Run :bicyclist:
+## Test Run :
 -----------------------
 After creating the virtual environment and installing the packages, open the IDE terminal to run the program.
 1. To use Command Line Version Use:
@@ -88,7 +88,7 @@ py main_gui.py
 
 
 
-## How To Use? :pencil:
+## How To Use? :
 ----------------------
 If you want to use it then follow the steps below:
 
