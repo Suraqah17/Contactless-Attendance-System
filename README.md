@@ -1,24 +1,14 @@
 # Contactless-Attendance-System
 
-**A Contactless Attendance System where your face is identified for Attendance.** :sparkles
+**A Contactless Attendance System where your face is identified for Attendance.**
 
-
-
-## Motivation :astonished:
-----------------------------
--	This Repository was created as a part of MINeD Hackathon, a national level hackathon organized by Centre of Excellence in Data Science at the CSE Department of Nirma University.
-
--	We seek to provide a valuable attendance service for employees. Reduce manual process errors by provide automated and a reliable attendance system uses facial recognition technology.
-
-
-## Features :clipboard:
+## Features :
 ---------------------------
 * Check Camera
 * Capture Faces
 * Train Faces
 * Recognize Faces & Attendance
 * Automatic Email
-
 
 
 
