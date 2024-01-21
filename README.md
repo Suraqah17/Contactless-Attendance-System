@@ -30,28 +30,6 @@
 * Automatic Email
 
 
-## Screenshots :camera:
------------------------------------
-### 1. GUI
-
-![GUI](https://github.com/Suraqah17/Git-Images/blob/master/GUI%20FRAS.PNG)
-
-### 2. Command Line Interface
-
-![Command Line Interface](https://github.com/Suraqah17/Git-Images/blob/master/Terminal%20FRAS.PNG)
-
-### 3. Checking Camera
-
-![Checking Camera](https://github.com/Suraqah17/Git-Images/blob/master/Check%20Camera.jpg)
-
-### 4. Recognize Image
-
-![Recognizie Image](https://github.com/Suraqah17/Git-Images/blob/master/Recognize%20Image.jpg)
-
-### 5. Automail 
-
-![Automail](https://github.com/Suraqah17/Git-Images/blob/master/Automail.jpeg)
-
 
 
 ## Tech Stack Used :computer:
