@@ -1,16 +1,6 @@
 # Contactless-Attendance-System
 
-**A Contactless Attendance System where your face is identified for Attendance.** :sparkles:
-
-
-![Contactless-Attendance-System](https://github.com/Suraqah17/Git-Images/blob/master/Contactless%20Attendance%20System%20Logo.png)
-
-
-![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
-
-
-![](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-![](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
+**A Contactless Attendance System where your face is identified for Attendance.** :sparkles
 
 
 
